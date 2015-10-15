@@ -1,0 +1,23 @@
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+	padding:30px; 
+	border: 1px solid black;
+}
+.trescajas{
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	padding:30px;
+	border: 1px dotted;
+	display: inline-block;
+	margin: auto;
+}
+div{
+	width: intrinsic;
+	height: intrinsic;
+	background-color: #FB10C4;
+	padding:20px; 
+	border: 1px dotted;
+}
